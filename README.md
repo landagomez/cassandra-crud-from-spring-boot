@@ -26,7 +26,7 @@ You should have an available Cassandra Database running.
     
         INSERT INTO "fiservkeyspace"."test" (id, name) VALUES (1, 'FirstName');
         
-        INSERT INTO "fiservkeyspace"."test" (id, name) VALUES (2, 'SecondtName');
+        INSERT INTO "fiservkeyspace"."test" (id, name) VALUES (2, 'SecondName');
         
         SELECT * FROM "fiservkeyspace"."test";
 
